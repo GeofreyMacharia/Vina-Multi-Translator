@@ -11,6 +11,13 @@ amount of time to be able to speak the native language present.
 As such, this application provides a means for international students to communicate regardless of which country they have visited.
 This is chieved by translating their language of choice to the language of the residents of the country of which they are in allowing for a means of communication
 as 'fail safe' before they master the countries language.
-# Disclaimer
-The speech to speech functionality can be faily slow due to unoptimized IO operations.
-Some few Languages such as "Hawaiian" are not fully supported( at the moment). 
+### Modules used
+Speechrecognition
+googletrans
+gTTS
+playsound
+streamlit
+pillow
+# Limitations
+- The speech to speech functionality can be faily slow due to unoptimized IO operations.
+- Some few Languages such as "Hawaiian" are not fully supported( at the moment). 

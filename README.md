@@ -12,12 +12,15 @@ As such, this application provides a means for international students to communi
 This is chieved by translating their language of choice to the language of the residents of the country of which they are in allowing for a means of communication
 as 'fail safe' before they master the countries language.
 ### Modules used
-Speechrecognition
-googletrans
-gTTS
-playsound
-streamlit
-pillow
+- Speechrecognition
+- googletrans
+- gTTS
+- playsound
+- streamlit
+- pillow
+### Application at work
+Text to Speech:
+![alt text](https://github.com/[GeofreyMacharia]/[Vina-Multi-Translator]/blob/[main]/How it looks 1.png?raw=true)
 # Limitations
 - The speech to speech functionality can be faily slow due to unoptimized IO operations.
 - Some few Languages such as "Hawaiian" are not fully supported( at the moment). 

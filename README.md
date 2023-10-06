@@ -24,5 +24,5 @@ as 'fail safe' before they master the countries language.
 ### Speech to Speech
 ![alt text](https://github.com/GeofreyMacharia/Vina-Multi-Translator/blob/main/How%20it%20looks%202.png?raw=true)
 # Limitations
-- The speech to speech functionality can be faily slow due to unoptimized IO operations.
+- The speech to speech functionality can be fairly slow due to unoptimized IO operations.
 - Some few Languages such as "Hawaiian" are not fully supported( at the moment). 

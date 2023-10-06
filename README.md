@@ -18,9 +18,11 @@ as 'fail safe' before they master the countries language.
 - playsound
 - streamlit
 - pillow
-### Application at work
-Text to Speech:
+### Text to speech
 ![alt text](https://github.com/GeofreyMacharia/Vina-Multi-Translator/blob/main/How%20it%20looks%201.png?raw=true)
+
+### Speech to Speech
+![alt text](https://github.com/GeofreyMacharia/Vina-Multi-Translator/blob/main/How%20it%20looks%202.png?raw=true)
 # Limitations
 - The speech to speech functionality can be faily slow due to unoptimized IO operations.
 - Some few Languages such as "Hawaiian" are not fully supported( at the moment). 
